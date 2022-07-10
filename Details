@@ -1,0 +1,44 @@
+
+Recap:
+
+  getElementById, style
+  
+  class style:
+    setAttribute
+    classlist add, remove
+
+
+  innerHTML 
+    puts the content as parsable element
+  
+  innerText
+    puts the contents as text 
+
+Topics:
+
+  querySelector vs querySelectorAll
+
+  Element creation
+
+  appendCild vs append
+
+
+  Window - Common Util functions
+    
+    prompt -> Input from the user to JS memory
+    Alert -> inform/alert something to the user which has no effect
+    confirm -> confirmation from user to decide the flow app
+
+    setTimeout -> 
+    
+    setInterval -> 
+  
+  working with events
+
+    working with events
+
+    bubbling
+
+    capturing
+
+    delegation ( e.target.matches )
